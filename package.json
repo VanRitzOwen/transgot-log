@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A logging module for Transgot by Atman",
   "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/VanRitzOwen/transgot-log/issues"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +15,13 @@
     "atman"
   ],
   "author": "owen",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/VanRitzOwen/transgot-log.git"
+  },
+  "dependencies": {
+    "log4js": "^2.3.9",
+    "path": "^0.12.7"
+  }
 }
