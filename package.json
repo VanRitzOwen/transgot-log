@@ -1,0 +1,16 @@
+{
+  "name": "transgot-log",
+  "version": "1.0.0",
+  "description": "A logging module for Transgot by Atman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log",
+    "transgot",
+    "atman"
+  ],
+  "author": "owen",
+  "license": "MIT"
+}
